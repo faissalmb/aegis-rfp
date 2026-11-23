@@ -1,0 +1,15 @@
+# Environnement virtuel Python
+venv/
+.venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+
+# Variables d'environnement et secrets (clés API)
+.env
+
+# Fichiers systèmes et éditeurs
+.DS_Store
+.vscode/
+.idea/
